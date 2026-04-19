@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - claude/setup-react-vite-project-mYjRT
+      - main
   workflow_dispatch:
 
 permissions:
